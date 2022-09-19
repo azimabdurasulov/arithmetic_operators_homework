@@ -1,3 +1,3 @@
 number = 43
-answer = numbers % 3
+answer = number % 3
 print(answer)
