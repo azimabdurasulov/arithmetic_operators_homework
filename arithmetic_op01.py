@@ -8,5 +8,5 @@
 #'The result is:'
 x = 10
 y = 5
-s = x + y
-print("The result is:", s)
+result = x + y
+print("The result is:", result)
