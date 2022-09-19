@@ -7,6 +7,7 @@
 #Print the answer.
  
 #Print the number.
+
 number = 53
-answer = number / 2
+answer = number // 2
 print(answer)
